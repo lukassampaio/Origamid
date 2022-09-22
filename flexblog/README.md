@@ -1,4 +1,4 @@
-<h1 align="center">FlexBlog</h1>
+<h1>FlexBlog</h1>
 
 ![preview](./.github/video-preview.gif)
 
